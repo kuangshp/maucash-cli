@@ -69,9 +69,12 @@ const binHander = {
               if (err) {
                 console.log(`${chalk.red('下载失败')}【${chalk.yellow(err.message.trim())}】`);
               } else {
-                console.log(`${chalk.green('✔')} ${chalk.yellow('成功创建项目')} ${chalk.green(dirname)}`);
                 // 修改下载来的项目package.json文件
-                shelljs.sed('-i', 'admin-web', dirname, 'package.json')
+                shelljs.sed('-i', 'admin-web', dirname, 'package.json');
+                console.log(`${chalk.green('✔')} ${chalk.yellow('成功创建项目')} ${chalk.green(dirname)}`);
+                console.log(`${Printer.default.fromString('使用步骤:')}}`)
+                console.log(`${Printer.default.fromString('1. cd')} ${Printer.default.fromString(_dirname)}`);
+                console.log(`${Printer.default.fromString('2. npm install or yarn')}`);
               }
             })
             break;
