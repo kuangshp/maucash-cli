@@ -67,7 +67,7 @@ const binHander = {
             download(template, _dirname, { clone: true }, err => {
               spinner.stop();
               if (err) {
-                console.log(`${chalk.red(下载失败)}【${chalk.yellow(err.message.trim())}】`);
+                console.log(`${chalk.red('下载失败')}【${chalk.yellow(err.message.trim())}】`);
               } else {
                 console.log(`${chalk.green('✔')} ${chalk.yellow('成功创建项目')} ${chalk.green(dirname)}`);
                 // 修改下载来的项目package.json文件

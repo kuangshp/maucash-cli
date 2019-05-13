@@ -1,6 +1,6 @@
 {
   "name": "maucash-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "bin": {
     "maucash": "./bin/maucash.js"
@@ -9,9 +9,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "maucash",
+    "maucash-cli",
+    "utils",
+    "node"
+  ],
+  "homepage": "https://github.com/kuangshp/maucash-cli",
+  "author": "kuangshp@126.com",
+  "license": "MIT",
   "dependencies": {
     "@darkobits/lolcatjs": "^3.1.2",
     "chalk": "^2.4.2",
