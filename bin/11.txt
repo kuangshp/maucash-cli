@@ -1,0 +1,23 @@
+"                                                                                                                    hhhhhhh            ",
+"                                                                                                                    h:::::h            ",
+"                                                                                                                    h:::::h            ",
+"                                                                                                                    h:::::h            ",
+"   mmmmmmm    mmmmmmm     aaaaaaaaaaaaa   uuuuuu    uuuuuu      cccccccccccccccc  aaaaaaaaaaaaa       ssssssssss    h::::h hhhhh       ",
+" mm:::::::m  m:::::::mm   a::::::::::::a  u::::u    u::::u    cc:::::::::::::::c  a::::::::::::a    ss::::::::::s   h::::hh:::::hhh    ",
+"m::::::::::mm::::::::::m  aaaaaaaaa:::::a u::::u    u::::u   c:::::::::::::::::c  aaaaaaaaa:::::a ss:::::::::::::s  h::::::::::::::hh  ",
+"m::::::::::::::::::::::m           a::::a u::::u    u::::u  c:::::::cccccc:::::c           a::::a s::::::ssss:::::s h:::::::hhh::::::h ",
+"m:::::mmm::::::mmm:::::m    aaaaaaa:::::a u::::u    u::::u  c::::::c     ccccccc    aaaaaaa:::::a  s:::::s  ssssss  h::::::h   h::::::h",
+"m::::m   m::::m   m::::m  aa::::::::::::a u::::u    u::::u  c:::::c               aa::::::::::::a    s::::::s       h:::::h     h:::::h",
+"m::::m   m::::m   m::::m a::::aaaa::::::a u::::u    u::::u  c:::::c              a::::aaaa::::::a       s::::::s    h:::::h     h:::::h",
+"m::::m   m::::m   m::::ma::::a    a:::::a u:::::uuuu:::::u  c::::::c     ccccccca::::a    a:::::a ssssss   s:::::s  h:::::h     h:::::h",
+"m::::m   m::::m   m::::ma::::a    a:::::a u:::::::::::::::uuc:::::::cccccc:::::ca::::a    a:::::a s:::::ssss::::::s h:::::h     h:::::h",
+"m::::m   m::::m   m::::ma:::::aaaa::::::a  u:::::::::::::::u c:::::::::::::::::ca:::::aaaa::::::a s::::::::::::::s  h:::::h     h:::::h",
+"m::::m   m::::m   m::::m a::::::::::aa:::a  uu::::::::uu:::u  cc:::::::::::::::c a::::::::::aa:::a s:::::::::::ss   h:::::h     h:::::h",
+"mmmmmm   mmmmmm   mmmmmm  aaaaaaaaaa  aaaa    uuuuuuuu  uuuu    cccccccccccccccc  aaaaaaaaaa  aaaa  sssssssssss     hhhhhhh     hhhhhhh",
+                                                                                                                                      
+                                                                                                                                       
+                                                                                                                                       
+                                                                                                                                       
+                                                                                                                                       
+                                                                                                                                       
+                                                                                                                                       
